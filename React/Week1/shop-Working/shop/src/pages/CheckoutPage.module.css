@@ -1,0 +1,22 @@
+.header {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.items-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding-bottom: 1.25rem;
+  border-bottom: solid 1px var(--color-primary);
+}
+
+.total {
+  font-size: 1.25rem;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.checkout-button {
+  width: 100%;
+  padding: 0.4rem;
+}

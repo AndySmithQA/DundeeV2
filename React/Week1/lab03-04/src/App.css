@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  padding: 5px;
+  border-bottom: 1px lightgray solid;
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+  
+}
+ img {
+  float: right;
+  padding: 40px;
+ }
+

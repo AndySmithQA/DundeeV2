@@ -1,0 +1,56 @@
+[
+  {
+    "id": "peacockPlant",
+    "name": "Peacock Plant",
+    "price": 18,
+    "imageUrl": "https://user-images.githubusercontent.com/118732445/203822768-69c9b5bb-da36-4b22-9f27-deffdb0488e2.jpg"
+  },
+  {
+    "id": "chineseMoneyTree",
+    "name": "Chinese Money Tree",
+    "price": 16,
+    "imageUrl": "https://user-images.githubusercontent.com/118732445/204523870-d2e1bd8f-ab14-4621-acfe-064a6ce825a7.jpg"
+  },
+  {
+    "id": "aglaonema",
+    "name": "Aglaonema",
+    "price": 15,
+    "imageUrl": "https://user-images.githubusercontent.com/118732445/203823558-15336f0e-0d89-409d-bc00-b259ae243d73.jpg"
+  },
+  {
+    "id": "zamioculas",
+    "name": "Zamioculas",
+    "price": 18,
+    "imageUrl": "https://user-images.githubusercontent.com/118732445/203821727-294fe68e-a1dd-4636-ba13-a4b40f6ad0f1.jpg"
+  },
+  {
+    "id": "philodendron",
+    "name": "Philodendron",
+    "price": 14,
+    "imageUrl": "https://user-images.githubusercontent.com/118732445/203823102-210c1371-b0c1-4ab2-afa8-4c41c3002545.jpg"
+  },
+  {
+    "id": "parlourPalm",
+    "name": "Parlour Palm",
+    "price": 8,
+    "imageUrl": "https://user-images.githubusercontent.com/118732445/203822381-ecdca485-6a42-4ee7-8956-93353e39f017.jpg"
+  },
+  {
+    "id": "alocasia",
+    "name": "Alocasia",
+    "price": 18,
+    "imageUrl": " https://user-images.githubusercontent.com/118732445/203824128-741b1f56-1f8d-40a2-8b1b-007eda2f70d6.jpg"
+  },
+  {
+    "id": "miniPine",
+    "name": "Mini Pine",
+    "price": 22,
+    "imageUrl": "https://user-images.githubusercontent.com/118732445/203820531-0d24e8aa-0314-490b-bc0d-f3aa2e7c0f51.jpg"
+  },
+  {
+    "id": "appleCactus",
+    "name": "Apple Cactus",
+    "price": 12,
+    "imageUrl": "https://user-images.githubusercontent.com/118732445/203812745-c6d7dad7-5ddc-4513-8004-e348b7739d78.jpg"
+  }
+]
