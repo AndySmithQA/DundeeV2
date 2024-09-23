@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "symbol": "🍎",
+      "name": "Apple",
+      "price": 0.3
+    },
+    {
+      "id": 2,
+      "symbol": "🍍",
+      "name": "Pineapple",
+      "price": 1
+    },
+    {
+      "id": 3,
+      "symbol": "🍉",
+      "name": "Watermelon",
+      "price": 4
+    },
+    {
+      "id": 4,
+      "symbol": "🥝",
+      "name": "Kiwi",
+      "price": 0.5
+    },
+    {
+      "id": 5,
+      "symbol": "🍊",
+      "name": "Orange",
+      "price": 0.3
+    },
+    {
+      "id": 6,
+      "symbol": "🍋",
+      "name": "Lemon",
+      "price": 0.2
+    }
+  ]
