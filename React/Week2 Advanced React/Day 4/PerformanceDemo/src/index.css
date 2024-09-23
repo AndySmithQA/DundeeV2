@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.moving-div {
+  position: absolute;
+  background: blue;
+
+  padding:35px;
+}
+
+.container {
+  display: flex;
+}
+
+.column {
+  width: 50%;
+}
+
+.child {
+  padding: 10px;
+  cursor: pointer;
+}

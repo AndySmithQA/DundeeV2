@@ -1,0 +1,42 @@
+#patient-dashboard {
+    padding-top: 95px;
+
+    .logo {
+        height: 80px;
+    }
+
+    .block {
+        border: 1px #004050 solid;
+        text-align: center;
+        background: rgba(255, 255, 255, 0.8);
+        padding: 10px 0 15px 0;
+        box-shadow: 5px 5px 5px 0 rgba(30, 30, 50, 0.5);
+        text-decoration: none;
+        color: #004050;
+        font-size: 15pt;
+        font-weight: bold;
+        cursor: pointer;
+        margin-bottom: 10px;
+
+        &:hover {
+            background: rgba(51, 122, 183, 0.5);
+            color: white !important;
+        }
+
+        img {
+            width: 90%;
+            margin-bottom: 20px;
+            border: 1px lightgray solid;
+        }
+    }
+
+    #nav-aux {
+    > span {
+        margin: 0 15px 0 0;
+        cursor: pointer;
+
+        &:hover {
+            color: blue;
+        }
+    }
+}}

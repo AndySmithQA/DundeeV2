@@ -1,0 +1,108 @@
+{
+  "surgeryDoctors": [
+    {
+      "id": 1001,
+      "name": "Karen Slater"
+    },
+    {
+      "id": 1002,
+      "name": "John Lewis"
+    },
+    {
+      "id": 1003,
+      "name": "Helen Reese"
+    }
+  ],
+  "appointmentDetails": [
+    {
+      "slot": {
+        "date": "2023-07-13 ",
+        "time": "09:00"
+      },
+      "doctor": {
+        "name": "Karen Slater",
+        "id": 1001
+      }
+    },
+    {
+      "slot": {
+        "date": "2023-07-13 ",
+        "time": "09:00"
+      },
+      "doctor": {
+        "name": "Helen Reese",
+        "id": 1002
+      }
+    },
+    {
+      "slot": {
+        "date": "2023-07-13 ",
+        "time": "09:30"
+      },
+      "doctor": {
+        "name": "Karen Slater",
+        "id": 1001
+      }
+    },
+    {
+      "slot": {
+        "date": "2023-07-13 ",
+        "time": "09:30"
+      },
+      "doctor": {
+        "name": "John Lewis",
+        "id": 1003
+      }
+    },
+    {
+      "slot": {
+        "date": "2023-07-14 ",
+        "time": "13:00"
+      },
+      "doctor": {
+        "name": "Karen Slater",
+        "id": 1001
+      }
+    },
+    {
+      "slot": {
+        "date": "2023-07-14 ",
+        "time": "13:00"
+      },
+      "doctor": {
+        "name": "Helen Reese",
+        "id": 1002
+      }
+    },
+    {
+      "slot": {
+        "date": "2023-07-14 ",
+        "time": "13:00"
+      },
+      "doctor": {
+        "name": "John Lewis",
+        "id": 1003
+      }
+    },
+    {
+      "slot": {
+        "date": "2023-07-14 ",
+        "time": "14:30"
+      },
+      "doctor": {
+        "name": "Helen Reese",
+        "id": 1002
+      }
+    },
+    {
+      "slot": {
+        "date": "2023-07-14 ",
+        "time": "14:30"
+      },
+      "doctor": {
+        "name": "John Lewis",
+        "id": 1003
+      }
+    }
+  ]
+}

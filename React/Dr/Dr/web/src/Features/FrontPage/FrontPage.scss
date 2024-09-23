@@ -1,0 +1,49 @@
+#frontpage {
+    height: 100%;
+    background: url("Resources/frontpage_bg.jpg") left top no-repeat;
+    background-size: cover;
+    overflow: auto;
+    padding-top: 150px;
+
+    @media (max-width: 767px) {
+        padding-top: 0;
+    }
+
+    & > * {
+        h1 {
+            background: url("../../Resources/qa.png") left top no-repeat;
+            background-size: 80px;
+            height: 80px;
+            padding: 5px 0 0 100px;
+            color: #843534;
+            margin-bottom: 10px;
+            font-weight: bold;
+            font-size: 40pt;
+        }
+
+        .block {
+            border: 1px #004050 solid;
+            text-align: center;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 10px 10px 15px 10px;
+            box-shadow: 5px 5px 5px 0 rgba(30, 30, 50, 0.5);
+            text-decoration: none;
+            color: #004050;
+            font-size: 20pt;
+            font-weight: bold;
+            cursor: pointer;
+            margin-bottom: 20px;
+
+            &:hover {
+                background: rgba(51, 122, 183, 0.5);
+                color: white !important;
+            }
+        }
+
+        img {
+            width: 100%;
+            margin-bottom: 20px;
+            border: 1px lightgray solid;
+        }
+    }
+}

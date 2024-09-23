@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.moving-div {
+  position: absolute;
+  color: white;
+}
+
+.container {
+  display: flex;
+}
+
+.column {
+  width: 50%;
+}
+
+.child {
+  padding: 10px;
+  cursor: pointer;
+}

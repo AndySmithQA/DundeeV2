@@ -1,0 +1,69 @@
+.header {
+  background-color: lightblue;
+  padding: 20px;
+}
+
+.header h1 {
+  margin-bottom: 0;
+  text-align: center;
+  color: white;
+}
+.logo {
+    float: left;
+    padding: auto;
+}
+img{
+  width: 60px;
+}
+
+.menu {
+  background-color: lightblue;
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.menu .menuItem {
+  display: inline-block;
+  margin: 0 30px;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.page {
+  padding: 30px;
+  text-align: center;
+}
+
+.page h2 {
+  text-align: center;
+}
+
+.page p {
+  text-align: center;
+}
+
+.inputs {
+  text-align: center;
+  height: 30px;
+}
+
+.inputs .input input {
+  height: 30px;
+  width: 300px;
+  margin: 5px 0;
+}
+
+
+button {
+  text-align: center;
+  background-color: lightblue;
+  border: none;
+  padding: 15px 30px;
+  color: #fff;
+  width: 308px;
+  margin: 10px 0;
+}

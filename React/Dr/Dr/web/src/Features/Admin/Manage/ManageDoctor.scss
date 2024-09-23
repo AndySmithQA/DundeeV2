@@ -1,0 +1,27 @@
+#manage-doctor {
+    .doctor-table {
+        border: 1px lightgray solid;
+        display: table;
+        width: 100%;
+        color: black;
+
+        .header {
+            background: #e9e9e9;
+            color: #337ab7;
+            font-weight: bold;
+        }
+
+        ul {
+            list-style: none;
+            display: table-row;
+        }
+
+        li {
+            padding: 5px 10px 5px 10px;
+            display: table-cell;
+
+            border-collapse: collapse;
+            border-bottom: 1px lightgray solid;
+        }
+    }
+}

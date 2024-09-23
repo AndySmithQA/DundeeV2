@@ -1,0 +1,14 @@
+java/mvnw
+mvnw.cmd
+/.mvn/
+
+.mvn/wrapper/maven-wrapper.jar
+**/target/
+**/node_modules/
+
+/web/development.env
+
+.vscode/### Intellij template
+/data/
+.idea/**
+

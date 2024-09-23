@@ -1,0 +1,66 @@
+.status-modal {
+    border: 0;
+    backdrop-filter: blur(8px) brightness(70%);
+    background: rgba(255, 255, 255, .4);
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10000;
+
+    .info, .spinner {
+        color: #337ab7;
+    }
+
+    .error {
+        color: #dc3545;
+    }
+
+    .success {
+        color: green;
+    }
+
+    .warning {
+        color: darkgoldenrod;
+    }
+
+    > div.message-box {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background: rgba(255, 255, 255, .6);
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+
+        .message-table {
+            display: table;
+            margin: 0 auto 0 auto;
+            padding: 10px 40px 10px 40px;
+        }
+
+        .icon {
+            font-size: 50pt;
+            vertical-align: middle;
+            display: table-cell;
+            padding: 15px;
+            margin: 5px;
+        }
+
+        .message {
+            margin: 5px;
+            text-align: left;
+            font-size: 20pt;
+            display: table-cell;
+            padding: 20px;
+            vertical-align: middle;
+        }
+
+        button[class~="btn-secondary"] {
+            margin-right: 10px;
+        }
+    }
+}

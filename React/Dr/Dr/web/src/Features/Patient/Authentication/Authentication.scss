@@ -1,0 +1,17 @@
+$break-width: 1000px;
+
+#authentication {
+    height: 100%;
+    overflow: auto;
+    background: url("Resources/login-bg.jpg") left top no-repeat;
+    background-size: cover;
+
+    > form {
+        margin: 150px auto 50px 25%;
+
+        @media (max-width: $break-width) {
+            margin-right: auto;
+            margin-left: auto;
+        }
+    }
+}

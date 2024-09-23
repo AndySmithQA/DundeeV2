@@ -1,0 +1,46 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "title": "Keyboard not working",
+      "user": "PChan",
+      "location": "London, UK"
+    },
+    {
+      "id": 2,
+      "title": "Printer not printing",
+      "user": "LRedman",
+      "location": "London, UK"
+    },
+    {
+      "id": 3,
+      "title": "Stool broken",
+      "user": "PChan",
+      "location": "London, UK"
+    },
+    {
+      "id": 4,
+      "title": "Cant login",
+      "user": "SGerrard",
+      "location": "Liverpool, UK"
+    },
+    {
+      "id": 5,
+      "title": "Drives missing",
+      "user": "MRodgers",
+      "location": "Manchester, UK"
+    },
+    {
+      "id": 6,
+      "title": "Lost work",
+      "user": "KSmith",
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": 7,
+      "title": "Missing keys on keyboard",
+      "user": "EAPoe",
+      "location": "London, UK"
+    }
+  ]
+}
