@@ -79,7 +79,7 @@
       "bedroom": 3,
       "bathroom": 1,
       "garden": 0,
-      "sellerId": 1,
+      "sellerId": "1",
       "status": "SOLD",
       "buyerId": "1"
     },
@@ -92,7 +92,7 @@
       "bedroom": 1,
       "bathroom": 1,
       "garden": 0,
-      "sellerId": 1,
+      "sellerId": "1",
       "status": "SOLD",
       "buyerId": 3
     },
@@ -104,7 +104,7 @@
       "bedroom": 1,
       "bathroom": 1,
       "garden": 1,
-      "sellerId": 3,
+      "sellerId": "3",
       "status": "FOR SALE",
       "id": "3"
     },
@@ -116,7 +116,7 @@
       "bedroom": 3,
       "bathroom": 3,
       "garden": 1,
-      "sellerId": 4,
+      "sellerId": "4",
       "status": "SOLD",
       "id": "4"
     }
@@ -148,16 +148,6 @@
     }
   ],
   "booking": [
-    {
-      "buyerId": 1,
-      "propertyId": 2,
-      "time": "2023-02-28T08:00:00.038Z",
-      "id": "2"
-    },
-    {
-      "propertyId": 1,
-      "time": "2023-03-02T08:00:00.000Z",
-      "id": "3"
-    }
+    
   ]
 }
