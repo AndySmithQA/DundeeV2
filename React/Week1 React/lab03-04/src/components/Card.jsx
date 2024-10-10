@@ -2,7 +2,7 @@ const Card = ({name,age,role, isActive}) => {
    
         return ( 
                 <div className="card">
-                    <img src="https://pedodoctor.com/custom/images/dr-jeffries.jpg" 
+                    <img src="https://sites.brown.edu/sharelab/files/2021/08/avatar.jpg" 
                     width="100px"
                     alt="" 
                     />
